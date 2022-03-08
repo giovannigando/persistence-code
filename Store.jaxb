@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personCatalogue>
+    <catalogue>
+        <name>Jackie Brown</name>
+        <address>345 NE Street</address>
+        <email>jackiebrown@hotmail.com</email>
+        <telephone>343485098</telephone>
+    </catalogue>
+    <catalogue>
+        <name>Lisa Bern</name>
+        <address>04 NW Avenue</address>
+        <email>lizzylizzy@gmail.com</email>
+        <telephone>39843983489</telephone>
+    </catalogue>
+</personCatalogue>

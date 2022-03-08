@@ -1,0 +1,6 @@
+#Person
+#Tue Mar 08 00:57:28 CET 2022
+address=9th Avenue ST NE
+name=Jackie Brown
+telephone=+1(498)-3498-332
+email=jackiebrown@gmail.com
