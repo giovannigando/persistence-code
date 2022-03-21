@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+		"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+		
+<hibernate-mapping package="persistence.hibernate">
+
+	<class name="PersonJDBC" table="CUSTOMERS">
+		<id name = "id" column ="ID" access="field">
+			<generator class="increment"/>
+		</id>
+		<property name="name" access="field"/>
+		<property name="address" access="field"/>
+		<property name="email" access="field"/>
+		<property name="telephone" access="field"/>
+	</class>
+
+
+</hibernate-mapping>
